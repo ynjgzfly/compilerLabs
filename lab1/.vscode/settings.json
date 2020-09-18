@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "stdlib.h": "c",
+        "prog1.h": "c",
+        "slp.h": "c",
+        "util.h": "c",
+        "assert.h": "c",
+        "stdio.h": "c"
+    }
+}
